@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f4ec"/>
+  <circle cx="920" cy="315" r="230" fill="#dce4d7"/>
+  <circle cx="920" cy="315" r="185" fill="none" stroke="#a8b9a2" stroke-width="2"/>
+  <circle cx="920" cy="315" r="145" fill="none" stroke="#a8b9a2" stroke-width="1.5" stroke-dasharray="5 9"/>
+  <text x="920" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="150" font-weight="700" letter-spacing="-14" fill="#284b39">G.T</text>
+  <text x="90" y="170" font-family="Arial,sans-serif" font-size="22" letter-spacing="7" fill="#78877c">COMPUTER SCIENCE · STUDENT</text>
+  <text x="82" y="315" font-family="Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-8" fill="#193c30">GAURAV</text>
+  <text x="82" y="420" font-family="Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-8" fill="#78917a">THAKUR</text>
+  <text x="90" y="500" font-family="Arial,sans-serif" font-size="25" fill="#68786d">Learning, building, and exploring technology.</text>
+</svg>
